@@ -10,7 +10,7 @@ APEX has introduced a new feature that prevents games from starting if a running
 
 This meant that games could not be started using AutoHotkey.
 
-As a workaround, I created a launch option to disable AutoHotkey when APEX starts and enable it when exiting. Here is a code.
+As a workaround, I created a launch option to disable AutoHotkey when APEX starts and enable it when exiting. Below are the guide and code.
 
 ---
 
